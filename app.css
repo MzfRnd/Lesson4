@@ -1,0 +1,23 @@
+.biggest {
+  padding: 25px 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.block1 {
+  border: 2px solid #ccc;
+  float: left;
+  width: 500px;
+  height: 100vh;
+  margin: 10px;
+  right: 80%;
+}
+.big-container {
+  margin: 3px;
+}
+.logo {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
